@@ -67,7 +67,7 @@ I focus on creating user-centered, culturally-sensitive designs for multilingual
 
 ### 📬 Contact
 <p>
-  <img src="https://img.shields.io/badge/Location-Bornova, İzmir-ff69b4?style=for-the-badge&logo=google-maps" />
+  <img src="https://img.shields.io/badge/Location- İzmir-ff69b4?style=for-the-badge&logo=google-maps" />
   <img src="https://img.shields.io/badge/Email-ipekleingilizcealmanca@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   <img src="https://img.shields.io/badge/Phone-+90 546 227 52 64-green?style=for-the-badge&logo=whatsapp" />
 </p>
