@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 <h3 align="center">UX/UI Designer | English-German Legal Translator</h3>
 
 ---
+<h1 align="center">Hi there, I'm İpek! 👋</h1>
+<h3 align="center">UX/UI Designer | English-German Legal Translator</h3>
+
+---
 
 🎯 I'm a passionate **UX & UI Designer** with a strong background in **translation** for English and German.  
 I focus on creating user-centered, culturally-sensitive designs for multilingual digital products.
@@ -47,10 +51,20 @@ I focus on creating user-centered, culturally-sensitive designs for multilingual
 
 ---
 
+### 💻 Services I Provide
+- 🌐 Web & Mobile Application Interface Design  
+- 🧩 UX Research (Persona, User Flow, Wireframing)  
+- 🎨 UI Kits & Design System Creation  
+- 🖥️ Website Design (Responsive, Corporate Identity Oriented)  
+- 📱 Prototyping & Usability Testing  
+- 📢 Social Media Visual Concepts aligned with Brand Identity  
+
+---
+
 ### 🎓 Education
 - 🎓 **MBA** – Manisa Celal Bayar University *(GPA: 3.13)*  
 - 💻 **Web Design & Coding** – Anadolu University  
-- 🎓 **B.A. in Business Administration** – İzmir Demokrasi University  
+- 🎓 **B.A. in Business Administration** – Izmir Demokrasi University  
 - 🇺🇸 **English as a Second Language** – San Jose State University  
 
 ---
@@ -65,15 +79,16 @@ I focus on creating user-centered, culturally-sensitive designs for multilingual
 
 ---
 
-### 📬 Contact
+### 🌍 Social Media & Contact
 <p>
-  <img src="https://img.shields.io/badge/Location- İzmir-ff69b4?style=for-the-badge&logo=google-maps" />
-  <img src="https://img.shields.io/badge/Email-uxdesigneripek@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.instagram.com/ux.ipek/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.behance.net/ipekbolakca"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ipekbolakca/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://dribbble.com/ipek-bolakca"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+  <a href="https://medium.com/@uxipek"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
-<p>
-  🔗 <strong>[LinkedIn](#)</strong> • <strong>[Portfolio / Behance](#)</strong>
-</p>
+📱 WhatsApp: [Click & Message Me](https://wa.link/bcmuqx)  
 
 ---
 
