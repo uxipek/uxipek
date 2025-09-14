@@ -50,9 +50,9 @@ I focus on creating user-centered, culturally-sensitive designs for multilingual
 ---
 
 ### 🎓 Education
-- 🎓 **MBA** – Manisa Celal Bayar University *(GPA: 3.13)*  
+- 🎓 **MBA** – Izmir Demokrasi University  
 - 💻 **Web Design & Coding** – Anadolu University  
-- 🎓 **B.A. in Business Administration** – Izmir Demokrasi University  
+- 🎓 **B.A. in Business Administration** – Manisa Celal Bayar University *(GPA: 3.13)*  
 - 🇺🇸 **English as a Second Language** – San Jose State University  
 
 ---
