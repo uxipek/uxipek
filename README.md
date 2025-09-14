@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there, I'm İpek! 👋</h1>
-<h3 align="center">UX/UI Designer | English-German Legal Translator</h3>
 
 ---
 <h1 align="center">Hi there, I'm İpek! 👋</h1>
@@ -87,8 +85,6 @@ I focus on creating user-centered, culturally-sensitive designs for multilingual
   <a href="https://dribbble.com/ipek-bolakca"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
   <a href="https://medium.com/@uxipek"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
-
-📱 WhatsApp: [Click & Message Me](https://wa.link/bcmuqx)  
 
 ---
 
