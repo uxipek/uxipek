@@ -39,14 +39,6 @@ I focus on creating user-centered, culturally-sensitive designs for multilingual
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-#### 💬 Languages  
-<p>
-  <img src="https://img.shields.io/badge/English-C1-blue?style=for-the-badge&logo=google-translate" />
-  <img src="https://img.shields.io/badge/German-C1-black?style=for-the-badge&logo=deezer" />
-</p>
-
----
-
 ### 💻 Services I Provide
 - 🌐 Web & Mobile Application Interface Design  
 - 🧩 UX Research (Persona, User Flow, Wireframing)  
@@ -80,8 +72,8 @@ I focus on creating user-centered, culturally-sensitive designs for multilingual
   <a href="https://www.instagram.com/ux.ipek/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.behance.net/ipekbolakca"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ipekbolakca/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://dribbble.com/ipek-bolakca"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
-  <a href="https://medium.com/@uxipek"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://dribbble.com/uxdesigneripek"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+  <a href="https://medium.com/@ipekbolakca"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
 ---
